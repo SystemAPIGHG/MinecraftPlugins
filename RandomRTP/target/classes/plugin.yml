@@ -1,0 +1,20 @@
+name: RandomTP
+version: 1.1
+main: rorg.example.randomrtp.RandomTPPlugin
+api-version: 1.20
+commands:
+  randomtp:
+    description: Teleport to a random location
+    usage: /randomtp
+    permission: randomtp.use
+  randomtplang:
+    description: Change the language of the plugin
+    usage: /randomtplang <en|de|tr|in|ru|ka>
+    permission: randomtplang.use
+permissions:
+  randomtp.use:
+    description: Allows the player to use the randomtp command
+    default: true
+  randomtplang.use:
+    description: Allows the player to change the plugin language
+    default: op

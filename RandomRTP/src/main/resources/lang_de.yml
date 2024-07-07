@@ -1,0 +1,5 @@
+messages:
+  teleporting: "Du wurdest an einen zufälligen Ort teleportiert!"
+  countdown: "Teleportiere in %d Sekunden..."
+  language_changed: "Sprache auf Deutsch geändert."
+  invalid_language: "Ungültige Sprache angegeben. Verwende 'en', 'de', 'tr', 'in', 'ru' oder 'ka'."

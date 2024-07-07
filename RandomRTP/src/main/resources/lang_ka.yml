@@ -1,0 +1,5 @@
+messages:
+  teleporting: "თქვენ გადახვედით შემთხვევით ადგილას!"
+  countdown: "გადაყვანა %d წამში..."
+  language_changed: "ენა შეიცვალა ქართულად."
+  invalid_language: "არასწორი ენაა მითითებული. გამოიყენეთ 'en', 'de', 'tr', 'in', 'ru' ან 'ka'."

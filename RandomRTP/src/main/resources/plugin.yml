@@ -1,0 +1,20 @@
+name: RandomTP
+version: 1.1
+main: rorg.example.randomrtp.RandomTPPlugin
+api-version: 1.20
+commands:
+  randomtp:
+    description: randomtp
+    usage: /randomtp
+    permission: randomtp.use
+  randomtplang:
+    description: language
+    usage: /randomtplang <en|de|tr|in|ru|ka>
+    permission: randomtplang.use
+permissions:
+  randomtp.use:
+    description: permission
+    default: true
+  randomtplang.use:
+    description: langauge
+    default: op

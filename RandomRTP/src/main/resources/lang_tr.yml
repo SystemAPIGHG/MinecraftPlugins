@@ -1,0 +1,5 @@
+messages:
+  teleporting: "Rastgele bir konuma ışınlandınız!"
+  countdown: "%d saniye içinde ışınlanıyor..."
+  language_changed: "Dil Türkçe olarak değiştirildi."
+  invalid_language: "Geçersiz dil belirtildi. 'en', 'de', 'tr', 'in', 'ru' veya 'ka' kullanın."
